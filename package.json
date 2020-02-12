@@ -1,0 +1,29 @@
+{
+  "name": "cra-template-typescript-antd",
+  "version": "1.0.5",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "antd"
+  ],
+  "description": "The TypeScript template for Create React App with ant-design.",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/facebook/create-react-app.git",
+    "directory": "/"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=8.10"
+  },
+  "bugs": {
+    "url": "https://github.com/facebook/create-react-app/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
